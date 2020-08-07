@@ -1,5 +1,5 @@
 # -Digital-Ocean
-Install Windows 10 on Digital Ocean
+### Install Windows 10 on Digital Ocean
 
 Steps:
 
@@ -17,7 +17,7 @@ Steps:
 
 sudo passwd root
 
-7- Connect to your Machine using Putty – Download From this link
+7- Connect to your Machine using Putty – [Download From this link](https://computech21.com/2019/05/22/download-putty-free-ssh-client/)
 
 8- Run the Windows Deployment Command:
 
@@ -42,4 +42,9 @@ Configure Networking, set the IP, SubNet, and the gateway as given in the consol
 
 12  – Done, Connect with RDP Client.
 
-Link ::: [https://www.youtube.com/watch?v=cgkjjJA8rGc]{youtube}
+Link ::: [youtube](https://www.youtube.com/watch?v=cgkjjJA8rGc)
+
+
+## configuring putty 
+
+
